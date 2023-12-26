@@ -1,3 +1,5 @@
+# EXP NO: 6
+# DATE:
 # Series Queues with infinite capacity - Open Jackson Network
 
 ## Aim :
